@@ -4,9 +4,9 @@
 
 ### inicializar esse repositório
 
-##install yarn
+## Install yarn
 
-
+### npm install -g yarn 
 
 
 #### yarn init -y
